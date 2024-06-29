@@ -1,5 +1,5 @@
 <?php 
  
- $con = mysqli_connect("localhost","root","","tutorial") or die("Couldn't connect");
+ $con = mysqli_connect("localhost","root","","proyek") or die("Couldn't connect");
 
 ?>
